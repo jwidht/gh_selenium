@@ -1,1 +1,1 @@
-# gh_selenium
+# gh_selenium: getahorse, getaroof selenium tests

@@ -1,0 +1,89 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Test reports and coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.log
+nosetests.xml
+test-results/
+
+# Selenium downloads (e.g., chromedriver)
+*.exe
+*.zip
+*.tar.gz
+*.tar
+*.dmg
+
+# WebDriverManager cache
+.wdm/
+
+# Cache and temp files
+.cache/
+*.tmp
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# Pipenv
+Pipfile.lock
+
+# Pyre type checker
+.pyre/
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# dotenv
+*.env
+.env.*
+
+# Database
+*.sqlite3
+
+# Node modules (if you mix in front-end code)
+node_modules/
